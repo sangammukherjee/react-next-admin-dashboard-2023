@@ -1,3 +1,5 @@
+'use client'
+
 import ChartCard from "@/components/charts/chart-card";
 import {
   areaChartData,
