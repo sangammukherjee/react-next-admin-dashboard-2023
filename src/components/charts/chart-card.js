@@ -1,3 +1,5 @@
+"use client";
+
 import Card from "../card";
 import { MdBarChart } from "react-icons/md";
 import ChartLayout from "./chart-layout";
